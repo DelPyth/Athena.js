@@ -1,0 +1,26 @@
+{
+	"name": "athena",
+	"version": "0.1.0",
+	"description": "A quick and simple Discord bot to customize for yourself.",
+	"keywords": ["bot", "discord_bot", "discord", "discord.js"],
+	"homepage": "https://www.github.com/DelPyth/Athena.js#readme",
+	"bugs":
+	{
+		"url": "https://github.com/DelPyth/Athena.js/issues",
+		"email": "constantjarod@gmail.com"
+	},
+	"license": "GNU General Public License v3.0",
+	"author":
+	{
+		"name": "TopHatCat (Jarod C.)",
+		"email": "constantjarod@gmail.com"
+	},
+	"funding": "https://www.paypal.com/DelPyth",
+	"main": "app.js",
+	"dependencies":
+	{
+		"discord.js": ">=12.5.3",
+		"safe-eval": ">=0.4.1"
+	},
+	"private": true
+}

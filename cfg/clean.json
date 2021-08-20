@@ -1,0 +1,4 @@
+[
+	[["https:\/\/preview\\.redd\\.it", "g"], "https:\/\/i.redd.it"],
+	[["\\?.+$", "g"], null]
+]
