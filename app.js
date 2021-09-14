@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const Discord = require("discord.js");
-const config = require(".\\cfg\\private.json")
+const config = require(".\\cfg\\private.json");
 
 // Since discord.js v12 doesn't have normal replies added, we add a simple library to append the ability to add replies.
 // To send a reply. use msg.inlineReply(my_message);
