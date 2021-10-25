@@ -1,3 +1,6 @@
+# Archived? Why?
+This bot was running on discord.js v12.something and is outdated if you update discord.js to v13 or later. So, archiving this for people to learn something is better than deleting the repo.
+
 # What is this bot?
 This bot is a simple fun/tool bot. No moderation! I think there's enough moderation bots out there and to add my own way of doing it would just confuse a lot of people, so no moderation, just simple stuff.
 The list of commands will keep growing and growing, for now there's only four. Adding more is really easy, just add your own documentation, the command function, include it into `index.js`, and you're on your way.
